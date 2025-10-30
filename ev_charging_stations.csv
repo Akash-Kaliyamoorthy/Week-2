@@ -1,0 +1,11 @@
+Station_ID,Station_Name,Address,City,Latitude,Longitude,Charger_Type,Availability,Price_per_kWh,Operating_Hours,Contact
+EV001,GreenCharge Station,123 MG Road,Bangalore,12.9716,77.5946,Fast DC,Available,₹15,24/7,080-1234567
+EV002,ChargeHub Center,45 Anna Salai,Chennai,13.0827,80.2707,AC Type-2,Occupied,₹12,06:00-23:00,044-2345678
+EV003,PowerGrid EV Stop,9 FC Road,Pune,18.5204,73.8567,DC Fast,Available,₹14,24/7,020-8765432
+EV004,ElectraPoint,21 Park Street,Kolkata,22.5726,88.3639,AC Slow,Available,₹10,08:00-22:00,033-4567890
+EV005,PlugIn Station,5 Carter Road,Mumbai,19.076,72.8777,DC Superfast,Maintenance,₹18,24/7,022-6543210
+EV006,VoltUp Charging Hub,Near Sector 18,Noida,28.5355,77.391,AC Type-2,Available,₹13,07:00-23:00,0120-2233445
+EV007,ChargeNow Point,HSR Layout,Bangalore,12.91,77.644,DC Fast,Occupied,₹14,24/7,080-9988776
+EV008,PowerPulse Station,Connaught Place,Delhi,28.6139,77.209,AC Type-2,Available,₹11,05:00-23:30,011-6677889
+EV009,ReCharge India,Law Garden,Ahmedabad,23.0225,72.5714,Fast DC,Available,₹15,24/7,079-7788990
+EV010,ElectroPark Stop,Marine Drive,Mumbai,18.943,72.8238,AC Slow,Occupied,₹9,06:00-22:00,022-5566778
